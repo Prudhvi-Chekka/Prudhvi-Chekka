@@ -3,11 +3,13 @@
 
 - 👨‍💻 All of my projects are available at [https://prudhvi-chekka.github.io/](https://prudhvi-chekka.github.io/)
 
+- 💬 Ask me about **Python, Flask and Data Science**
+
 - 📫 How to reach me **prudhviarun.ch2@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/prudhvi-chekka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prudhvi arun chekka" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/prudhvi arun chekka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prudhvi arun chekka" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/prudhvi_uga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prudhvi_uga" height="30" width="40" /></a>
 </p>
 
