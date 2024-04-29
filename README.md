@@ -87,9 +87,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 ### :fire: Stats :
 
-[![GitHub Streak](https://github-readme-streak-stats-salesp07.vercel.app/?user=Prudhvi-Chekka&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-salesp07.vercel.app/?user=Prudhvi-Chekka&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prudhvi-Chekka&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prudhvi-Chekka&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)]
 
 ![Prudhvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prudhvi-Chekka&show_icons=true&theme=tokyonight)
 
